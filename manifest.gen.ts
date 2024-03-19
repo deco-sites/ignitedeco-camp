@@ -97,17 +97,21 @@ const manifest = {
     "deco-sites/ignitedeco-camp/sections/Images/ShoppableBanner.tsx": $$$$$$28,
     "deco-sites/ignitedeco-camp/sections/Links/LinkTree.tsx": $$$$$$29,
     "deco-sites/ignitedeco-camp/sections/Links/Shortcuts.tsx": $$$$$$30,
-    "deco-sites/ignitedeco-camp/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$31,
-    "deco-sites/ignitedeco-camp/sections/Miscellaneous/CookieConsent.tsx": $$$$$$32,
+    "deco-sites/ignitedeco-camp/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$31,
+    "deco-sites/ignitedeco-camp/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$32,
     "deco-sites/ignitedeco-camp/sections/Miscellaneous/Slide.tsx": $$$$$$33,
     "deco-sites/ignitedeco-camp/sections/Newsletter/Newsletter.tsx": $$$$$$34,
     "deco-sites/ignitedeco-camp/sections/Product/ImageGalleryFrontBack.tsx":
       $$$$$$35,
     "deco-sites/ignitedeco-camp/sections/Product/NotFound.tsx": $$$$$$36,
-    "deco-sites/ignitedeco-camp/sections/Product/NotFoundChallenge.tsx": $$$$$$37,
+    "deco-sites/ignitedeco-camp/sections/Product/NotFoundChallenge.tsx":
+      $$$$$$37,
     "deco-sites/ignitedeco-camp/sections/Product/ProductDetails.tsx": $$$$$$38,
     "deco-sites/ignitedeco-camp/sections/Product/ProductShelf.tsx": $$$$$$39,
-    "deco-sites/ignitedeco-camp/sections/Product/ProductShelfTabbed.tsx": $$$$$$40,
+    "deco-sites/ignitedeco-camp/sections/Product/ProductShelfTabbed.tsx":
+      $$$$$$40,
     "deco-sites/ignitedeco-camp/sections/Product/SearchResult.tsx": $$$$$$41,
     "deco-sites/ignitedeco-camp/sections/Product/ShelfWithImage.tsx": $$$$$$42,
     "deco-sites/ignitedeco-camp/sections/Product/Wishlist.tsx": $$$$$$43,
